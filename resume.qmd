@@ -2,8 +2,8 @@
 layout: cv
 title: Fabio Ayaipoma's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Fabio Ayaipoma
+fan de mincraft
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
