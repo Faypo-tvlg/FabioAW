@@ -2,7 +2,7 @@
   {
     "objectID": "story_telling.html",
     "href": "story_telling.html",
-    "title": "about me",
+    "title": "Fabio Ayaipoma",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
@@ -97,7 +97,7 @@
   {
     "objectID": "full_stack.html",
     "href": "full_stack.html",
-    "title": "about me",
+    "title": "Fabio Ayaipoma",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
@@ -128,7 +128,7 @@
   {
     "objectID": "competition.html",
     "href": "competition.html",
-    "title": "about me",
+    "title": "Fabio Ayaipoma",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
@@ -194,7 +194,7 @@
   {
     "objectID": "cleansing.html",
     "href": "cleansing.html",
-    "title": "about me",
+    "title": "Fabio Ayaipoma",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
@@ -300,7 +300,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "about me",
+    "title": "Fabio Ayaipoma",
     "section": "",
     "text": "MarkDown Basics"
   },
@@ -325,7 +325,7 @@
   {
     "objectID": "ml.html",
     "href": "ml.html",
-    "title": "about me",
+    "title": "Fabio Ayaipoma",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
@@ -373,5 +373,63 @@
     "crumbs": [
       "Data Exploration"
     ]
+  },
+  {
+    "objectID": "cleansing.html#byui",
+    "href": "cleansing.html#byui",
+    "title": "Fabio Ayaipoma",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Cleansing"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#byui",
+    "href": "story_telling.html#byui",
+    "title": "Fabio Ayaipoma",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "ml.html#byui",
+    "href": "ml.html#byui",
+    "title": "Fabio Ayaipoma",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "full_stack.html#byui",
+    "href": "full_stack.html#byui",
+    "title": "Fabio Ayaipoma",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "competition.html#byui",
+    "href": "competition.html#byui",
+    "title": "Fabio Ayaipoma",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Competitions",
+      "Competition"
+    ]
+  },
+  {
+    "objectID": "index.html#byui",
+    "href": "index.html#byui",
+    "title": "Fabio Ayaipoma",
+    "section": "",
+    "text": "MarkDown Basics"
   }
 ]
