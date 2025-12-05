@@ -6,9 +6,9 @@ title: Fabio Ayaipoma's CV
 Business Analytics Student BYUI
 
 <div id="webaddress">
-<a href="fabiomayaipoma@gmail.com">fabiomayaipoma@gmail.com</a>
-
-
+  <a href="mailto:fabiomayaipoma@gmail.com">fabiomayaipoma@gmail.com</a><br>
+  <a href="https://www.linkedin.com/in/fabio-ayaipoma">www.linkedin.com/in/fabio-ayaipoma</a>
+</div>
 
 ## Currently
 
